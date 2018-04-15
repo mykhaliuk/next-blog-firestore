@@ -52,6 +52,10 @@ class AdminSidebarMenu extends React.Component {
           <Icon type="setting" />
           <span>Settings</span>
         </Menu.Item>
+        <Menu.Item key="exit">
+          <Icon type="rollback" />
+          <span>Exit to blog</span>
+        </Menu.Item>
         <Menu.ItemGroup key="user" title="User">
           <Menu.Item key="signout">
             <Icon type="logout" />
