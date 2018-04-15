@@ -1,5 +1,5 @@
 module.exports = {
-  baseUrl: "http://localhost:3000",
+  baseUrl: "https://thawing-crag-24320.herokuapp.com",
   siteTitle: "Next Blog Firestore",
   description: "Awesome blog example built with Next.js and Firebase Firestore",
   copyright: "Next Blog Firestore. MIT.",
